@@ -1,2 +1,4 @@
 # study-helper
-abc
+## Description
+## Project Goal
+## Tech Stack
